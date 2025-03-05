@@ -1,4 +1,7 @@
-umer
+<img align='centre' alt='coding' width='1000' height='450'
+src='https://github.com/user-attachments/assets/5850062d-6454-41dd-b2f7-39e56d628426'>
+
+
 <h1 align="center">Hi 👋, I'm Umer Khan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
